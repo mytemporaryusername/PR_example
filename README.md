@@ -1,4 +1,4 @@
 # PR_example
 
-This is a demo prokejce !
+This is a demo project !
 
